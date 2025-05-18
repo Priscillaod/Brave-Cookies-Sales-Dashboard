@@ -1,16 +1,16 @@
-## Brave Cookies Sales Performance Dashboard (Excel)
+# Brave Cookies Sales Performance Dashboard (Excel)
 A clean, powerful Excel dashboard that delivers executive-level insight with zero coding, just smart design and sharp analytics.
 
 
 
 
 
-# Project Overview
+## Project Overview
 
 This project presents a dynamic Excel dashboard created for Brave Cookies, a fictional multinational bakery brand. The dashboard provides an executive-level summary of key sales and profit trends across cookie types and global markets. Built to support strategic decision-making, it showcases Excel's power for business intelligence and reporting automation.
 
 
-# Business Objective
+## Business Objective
 
 Brave Cookies needed a centralised view of product and regional performance to answer questions like:
 
@@ -21,14 +21,14 @@ Brave Cookies needed a centralised view of product and regional performance to a
 This dashboard helps stakeholders identify high-performing markets, track product profitability, and monitor seasonal trends to optimise marketing and distribution strategies.
 
 
-# Tools Used
+## Tools Used
 
 - Microsoft Excel (PivotTables, Slicers, Line & Bar Charts, Custom Formatting)
 - Dataset Source: Sample data from Kevin Stratvert (YouTube)
 - Design Style: Layout with filters, multi-sheet structure, and branded color scheme
 
 
-# Key Features and Visuals
+## Key Features and Visuals
 - Section	Description
 - Slicers	Filters by Year, Month, Country, and Cookie Type
 - Profit by Market & Cookie	Stacked bar chart showing profit contribution by product and country
@@ -37,7 +37,7 @@ This dashboard helps stakeholders identify high-performing markets, track produc
 - Pivot Tables	Underlying summaries for easy audit and drill-down
 
 
-# Business Insights
+## Business Insights
 
 - Top Market: India generated the highest profit ($606K), largely driven by Chocolate Chip sales.
 - Top Product: Chocolate Chip cookies consistently outperformed others across all markets.
@@ -46,7 +46,7 @@ This dashboard helps stakeholders identify high-performing markets, track produc
 - Profit Growth: October showed the highest monthly profit (£484K), followed by a steady Q4.
 
 
-# Recommendations
+## Recommendations
 
 - Focus on Q4 Promotions: Ramp up production and marketing ahead of peak sales months (Oct–Dec).
 - Expand Chocolate Chip Range: Given its profitability, consider new flavors or combo packs.
@@ -54,7 +54,7 @@ This dashboard helps stakeholders identify high-performing markets, track produc
 - Replicate India’s Strategy: Analyze sales tactics in India and consider applying them in underperforming regions.
 
 
-# Deliverables
+## Deliverables
 
 Interactive Excel file with:
 - Dashboard Sheet (Slicers + Charts)
